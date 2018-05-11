@@ -1,0 +1,20 @@
+[ 2017-07-01T14:56:02+08:00 ] ::1 /movie/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.056684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.061090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.061225s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000262s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000370s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.402446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.402574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.041176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.041275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034171s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034268s ]
+

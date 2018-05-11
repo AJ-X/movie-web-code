@@ -1,0 +1,354 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>movie</title>
+	<link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/movie/Public/movie.css">
+	<script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body><a name="top"></a><a href="#top" class="bodya"><img src="/movie/Public/img/returntop.png"></a>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+					&times;
+				</button>
+				<h3 class="modal-title" id="myModalLabel">
+					娱票儿账户登陆
+				</h3>
+			</div>
+			<div class="modal-body">
+			    <div class="modal-body-img">
+			    	<img src="img/header_logo.png">
+			    </div>
+			    <form action="<?php echo U('login/login');?>" method="post">
+					<div class="input">
+	                    <input type="text" name="uname" placeholder="手机号">
+	                    <br>
+	                    <input type="password" name="password" placeholder="密码">
+	                </div>
+	                <div class="button">
+	                    <input type="submit" name="submit" value="登陆">
+	                </div>
+	                <div class="other1">
+	                	<a href="">注册账号</a>
+	                </div>
+                </form>
+			</div>
+	    </div>
+	</div>
+</div>
+<div class="modal fade" id="myModa2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+					&times;
+				</button>
+				<h3 class="modal-title" id="myModalLabel">
+					注册娱票儿账号
+				</h3>
+			</div>
+			<div class="modal-body">
+			    <div class="modal-body-img">
+			    	<img src="/movie/Public/img/header_logo.png">
+			    </div>
+			    <form action="<?php echo U('login/register');?>" method="post">
+					<div class="input">
+	                    <input type="text" name="uname" placeholder="手机号">
+	                    <br>
+	                    <input type="password" name="password" placeholder="密码">
+	                    <input type="password" name="rpassword" placeholder="重复密码">
+	                </div>
+	                <div class="button">
+	                    <input type="submit" name="submit" value="注册">
+	                </div>
+	                <div class="other2">
+	                	<a href="">已有账号，去登陆</a>
+	                </div>
+                </form>
+			</div>
+	    </div>
+	</div>
+</div>
+<div class="modal fade" id="myModa3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h3 class="modal-title" id="myModalLabel">
+                    娱票儿在线影院
+                </h3>
+            </div>
+            <div class="modal-body">
+                <div class="modal-body-img">
+                    <img src="/movie/Public/img/header_logo.png">
+                </div>
+                <form action="<?php echo U('movie/movie');?>" method="post">
+                    <div class="select">
+                        <select name="cinema" id="activities" class="select1">
+                            <option value="cinema"></option>
+                            <option value="德信影城">德信影城</option>
+                            <option value="保利影城">保利影城</option>
+                            <option value="UME">UME</option>
+                        </select>
+                        <select name="date" id="activities" class="select1">
+                            <option value="date"></option>
+                            <option value="6月23日">6月23日</option>
+                            <option value="6月25日">6月25日</option>
+                            <option value="7月5日">7月5日</option>
+                        </select>
+                        <select name="time" id="activities" class="select1">
+                            <option value="time"></option>
+                            <option value="18：30">18：30</option>
+                            <option value="21：00">21：00</option>
+                            <option value="0：00">0：00</option>
+                        </select>
+                        <div class="button">
+                        <input type="submit" name="submit" value="下一步 选座" data-toggle="modal" data-target="#myModal4">
+                    </div>
+                    </div>  
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="body">
+    <div class="header">
+    	<div class="header-top">
+    	    <div class="header-top-left">
+	    		<ul>
+	    			<li class="topfirst"><a href="">演出</a></li>
+	    			<li><a href="">电影</a></li>
+	    			<li><a href="">体育</a></li>
+	    		</ul>
+    		</div>
+    		<div class="header-top-right">
+    			<ul>
+    				<li id="bhd" onmouseover="mover();bckover()" onmouseout="mout();bckout()" 
+    				><div class="hd"><img src="/movie/Public/img/phone.png"><a href="javascript:return false;">手机娱票儿</a></div></li>
+    				<li class="hd2"><a href="">演出场馆</a></li>
+    				<li class="hd2"><a href="">票品验证</a></li>
+    			</ul>
+    			<p class="p">服务热线：4001-3388</p>
+    			<div class="bd" id=	"bd" onmousemove="mover();bckover()"onmouseout="mout();bckout()"><img src="/movie/Public/img/erweima.png"></div>
+    		</div>   		
+    	</div>
+    	<div class="header-container">
+    		<div class="header-logo">
+    			<img src="/movie/Public/img/header_logo.png">
+    		</div>
+    		<div class="header-input">
+    			<form action="">
+    				<input type="text" placeholder="请输入艺人、演出、场馆…">
+    				<button>搜索</button>
+    			</form>
+    		</div>
+    		<div class="header-user">
+                <img src="/movie/Public/img/user.png">
+                个人中心：<a href="<?php echo U('user/user');?>"><?php echo ($_SESSION['uname']); ?></a>
+                <a href="<?php echo U('index/index');?>">退出</a>
+            </div>
+    	</div>
+    	<div class="header-nav">
+    		<div class="header-nav-ct">
+    			<ul>
+    				<li class="first" onmousemove="navmover()" onmouseout="navmout()"><a href="javascript:return false;">全部演出分类</a></li>
+    				<li class="second"><a href="">演唱会</a></li>
+    				<li class="third"><a href="">话剧音乐剧</a></li>
+    				<li class="forth"><a href="">儿童亲子</a></li>
+    				<li class="second"><a href="">音乐会</a></li>
+    				<li class="forth"><a href="">展览活动</a></li>
+    			</ul>
+    		</div>
+    		<div class="header-nav-ft">
+    			<div id="navlt" class="header-nav-ft-lt" onmousemove="navmover()" onmouseout="navmout()">
+    				<dl>
+    					<dt><a href="">演唱会</a></dt>
+    					<dt><a href="">话剧音乐剧</a></dt>
+    					<dt><a href="">儿童亲子</a></dt>
+    					<dt><a href="">音乐会</a></dt>
+    					<dt><a href="">展览活动</a></dt>
+    					<dt><a href="">舞蹈芭蕾</a></dt>
+    					<dt><a href="">戏曲综艺</a></dt>
+    					<dt><a href="">休闲娱乐</a></dt>
+    				</dl>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+    <div class="container">
+    	<div class="container-header">
+    		<div class="conheaderall">
+    			<div class="conheaderall-img">
+    				<a href=""><img src="/movie/Public/img/hot1.jpg"></a>
+    			</div>
+    			<div class="conheaderall-ul">
+    				<ul>
+    					<li class="conheaderall-ul1">[呼和浩特]2017五月天 LIFE [ 人生无限公司 ] 巡回演唱会-呼和浩特站</li>
+    					<li class="conheaderall-ul2">“一生活一场五月天”</li>
+    					<li class="conheaderall-ul3"> 2017年7月8日19:00 </li>
+    					<li class="conheaderall-ul4">呼和浩特体育场（新）</li>
+    					<li class="conheaderall-ul5"><span>255</span>&nbsp&nbsp元起</li>
+    				</ul>
+                    <div class="buy">
+                        <input type="submit" name="buy" value="购票" data-toggle="modal" data-target="#myModa3">
+                    </div>
+    			</div>
+    			<div class="conheaderall-rt">
+    				<p>微信-钱包-电影演出赛事</p>
+    				<img src="/movie/Public/img/fuqian.png">
+    				<p>微信扫一扫快速购票</p>
+    			</div>
+    		</div>
+    	</div>
+    	<div class="container-body">
+    		<div class="conbd-left">
+    			<div class="conbd-left-hd">
+                    <a href=""><img src="/movie/Public/img/xingc.png"></a>
+                </div>
+                <div class="message">
+                    <span>演出介绍</span>
+                    <div class="down1"></div>
+                    <div class="down2"></div>
+                    <h5 class="down3">亮点介绍</h5>
+                    <div class="message-p">
+                        <p>巨资打造超豪华舞台<br>
+                        格莱美视效大师操刀顶级视听盛宴<br>生命中最好的一天，一生活一场五月天</p>
+                    </div>
+                    <div class="down4"></div>
+                    <h5 class="down5">亮点介绍</h5>
+                    <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp“演唱会之王”五月天刚结束接连9场《RE : LIVE -Just Rock It 2016最终章 [自传复刻版] 》限定演唱会。在这9个晚上，任意门穿梭了五月天成军19年来的9场大型巡回演唱会，“长长99”的存在所有曾参与其中的人心中。时间跨入2017年，也是五月天成军20年的重要里程碑，恰逢这个“10全10美”的双十好数字，五月天也将展开他们的“第10代大型巡回演唱会”LIFE《人生无限公司》。</p>
+                    <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp刚复刻19年跨世代集体记忆的五月天，跨年第一天正式宣告成军第20年的第10代五月天演唱会“打掉重练、从0开始自我挑战”，正式进入“五月天人生2.0”。</p>
+                    <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp众人皆知，能打败“演唱会之王”五月天的，只有五月天的演唱会，压力超大的五月天对于全新世界巡回LIFE《人生无限公司》从一开始就向整个团队立下唯一目标﹕“打掉重练”！打破过去五月天所创下的演唱会传奇，就是要挑战自己的不可能，一心一意要给全世界歌迷一生一次只有五月天能做到的演唱会。</p>
+                    <p><img src="/movie/Public/img/message1.jpg"></p>
+                    <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp五月天正式宣布将在五月天成军20年的2017年，于7月8日于呼和浩特体育场与大家一同起跑，展开全新世界巡回演唱会—LIFE《人生无限公司》。主办单位初估，此次五月天全新世界巡回演唱会—LIFE《人生无限公司》，短短时间目前全世界各地主办方邀约已突破100场，势必超越目前五月天“场次最多”的《诺亚方舟》两年半82场的纪录。</p>
+                    <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp去年“Just Rock It”演唱会让广大歌迷哀呼“一票难求”，今年五月天火力全开将在内地更多城市开唱，不断爆表激增的其他城市场次将一一公布，势必会引爆新一轮的演唱会抢票狂潮。而抢先公布的3城市高雄、香港、广州共计15场，就已动员33万人次，五月天“20周年第10代”世界巡回，几乎可以确定将再打破《诺亚方舟》全世界264万人登船的辉煌纪录。</p>
+                    <p><img src="/movie/Public/img/message2.jpg"></p>
+                    <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp就在LIFE《人生无限公司》再创新高改写全新纪录前，五月天的第9张录音室专辑《自传》抢先传出捷报，仅发行五个月就夺下五大金榜、博客来销售榜以及诚品音乐馆三大实体CD专辑通路，成为2016年度销售排行总冠军。《自传》作为五月天倒数第二张实体CD专辑，在这个数位音乐成为主流、实体CD专辑逐渐成为濒临绝种保育类记忆的时代，五月天对音乐的顽固坚持挑动歌迷的珍惜感动，一起再一次为华语乐坛写下令人称奇的新一页“自传”。</p>
+                    <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp“生命中最好的一天，一生活一场五月天”，五月天全新世界巡回LIFE《人生无限公司》将于7月8日呼和浩特开唱！从高雄世运主场馆开跑的全新世界巡回演唱会LIFE《人生无限公司》陆续在各地遍地开花，可以预见五月天成军20周年的2017又将是全球五迷目不暇给的五月天Live年！</p>
+                    <p><img src="/movie/Public/img/message3.jpg"></p>
+                    <p><img src="/movie/Public/img/message4.jpg"></p>
+                    <p><img src="/movie/Public/img/message5.jpg"></p>
+                    <p><img src="/movie/Public/img/message6.jpg"></p>
+                    <div class="down6"></div>
+                    <h5 class="down7">温馨提示</h5>
+                    <p>因易受主办方及场馆客观情况影响，预售票量可能会小于最终出票量，如最终未能配票，我司将对本平台购票用户全额退款，用户购票之外的其他成本支出恕不承担，见谅！</p>
+                    <p>本项目暂时处于预售状态，待开票后才能配票，购票后请您耐心等待，我们将尽快为您配送；</p>
+                    <p>本场演出1.2米以下儿童谢绝入场，1.2米以上儿童持票入场；</p>
+                    <p>本演出具体演出时长，以现场为准；</p>
+                    <p>请您保存好购买到的票品,因演出票特殊性遗失不补且无法挂失，请见谅；</p>
+                    <p>客服热线400-133-8888，服务时间为9:00~21:00。</p>
+                </div>
+                <div class="notice">
+                    <span>购票须知</span>
+                    <div class="down8"></div>
+                    <ul>
+                        <li>因易受主办方及场馆客观情况影响，预售票量可能会小于最终出票量，如最终未能配票，我司将对本平台购票用户全额退款，用户购票之外的其他成本支出恕不承担，见谅！</li>
+                        <li>本项目暂时处于预售状态，待开票后才能配票，购票后请您耐心等待，我们将尽快为您配送；</li>
+                        <li>1.2米以下儿童禁止入场，1.2米以上儿童须持票入场；</li>
+                        <li>本演出具体演出时长，以现场为准；</li>
+                        <li>请您保存好购买到的票品，因演出票特殊性遗失不补且无法挂失，请见谅；</li>
+                        <li>内蒙古票务合作热线：13653662229；</li>
+                        <li>客服热线400-133-8888，服务时间为9:00~21:00；</li>
+                    </ul>
+                </div>
+    		</div>
+            <div class="conbd-right">
+                <div class="conbd-rthd" onmouseover="rthiddenmover()" onmouseout="rthiddenmout()">
+                    <img src="/movie/Public/img/rthd.png">
+                    <div class="conbd-rthdno" id="rtnone">
+                        <img src="/movie/Public/img/moviert.jpg">
+                    </div>
+                </div>
+                <div class="conbd-rtct">
+                    <span>演出场馆</span>
+                    <hr>
+                    <img src="/movie/Public/img/moviertc.jpg">
+                    <div class="conbd-rtctdn">
+                        <a href="">呼和浩特体育场（新）</a>
+                        <p>地址：位于成吉思汗大街南、新建内蒙古体育馆西<br> 电话：0471-8929666</p>
+                    </div>
+                </div>
+                <div class="conbd-rtdw">
+                    <span>热销榜单</span>
+                    <hr>
+                    <div class="conbd-rtdwhd">
+                        <a href=""><img src="/movie/Public/img/jie.jpg"></a>
+                        <div class="conbd-rtdwhdrt">
+                            <a href="">[南宁]2017张杰“我想”世界巡回演唱会－南宁站（预售）</a><p>2017年8月5日20:00</p><p>广西体育中心体育馆</p><p><big>280</big>&nbsp&nbsp元起</p>
+                        </div>
+                        <div class="conbd-rtdwhddn">
+                            <a href="">[苏州]2017岳云鹏相声专场“爱岳之城·苏州”</a><br><hr>
+                            <a href="">[北京]2017 COCO李玟18世界巡回演唱会-北京站（预售）</a><br><hr>
+                            <a href="">[北京]百老汇原版经典喜剧音乐剧《修女也疯狂》</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="conbd-rtft">
+                    <span>客服热线</span>
+                    <hr>
+                    <img src="/movie/Public/img/ft.png">
+                </div>
+            </div>
+    	</div>
+    </div>
+    <div class="footer">
+    	<div class="footerconlt">
+    		<div class="footerconltimg">
+    			<img src="/movie/Public/img/footer_logo.png">
+    		</div>
+    		<div class="footerconltsp">
+    			<span class="instru1">微信电影票官网</span><br>
+    			<span class="instru2">在线占好座，覆盖影院全国第一</span>
+    		</div>
+    	</div>
+    	<div class="footerconct">
+    		<div class="footerconctimg">
+    			<img src="/movie/Public/img/phoneIcon.png">
+    		</div>
+    		<div class="footerconctsp">
+    			<span class="instru1">4001-338-888</span><br>
+    			<span class="instru2">9：00-21：00 | 全年无休</span>
+    		</div>
+    	</div>
+    	<div class="footerconrt">
+    		<div class="footerconrt1">
+    			<img src="/movie/Public/img/f_wpr_ecode.png" id="footerconrt1">
+    		</div>
+    		<div class="footerconrt2" onmouseover="footerchange1()" onmouseout="footerchange2()">
+    			<img src="/movie/Public/img/f_wx.png" id="footerconrt2">
+    		</div>
+    		<div class="footerconrt3">
+    		    <img src="/movie/Public/img/f_app_ecode.png" id="footerconrt3">
+    		</div>
+    		<div class="footerconrt4" onmouseover="footerchange3()" onmouseout="footerchange4()">
+    			<img src="/movie/Public/img/f_wpr.png" id="footerconrt4">
+    		</div>
+    		<div class="footerconrt5">
+    			<span class="instru1">打开微信扫一扫</span>
+    		</div>
+    	</div>
+    	<div class="footerdown">
+    		<span>@北京微影时代科技有限公司版权所有　　京ICP备14034406号-2</span>
+    	</div>
+    </div>
+</div>
+</body>
+<script src="/movie/Public/index.js"></script>
+<script>
+    function rthiddenmover(){
+        var element=document.getElementById("rtnone");
+        element.style.display="block";
+    }
+    function rthiddenmout(){
+        var element=document.getElementById("rtnone");
+        element.style.display="none";
+    }
+</script>
+</html>

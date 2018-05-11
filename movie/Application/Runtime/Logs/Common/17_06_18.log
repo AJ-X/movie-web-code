@@ -1,0 +1,2997 @@
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:Css
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010290s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:00+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001601s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013738s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Img
+
+
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001864s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:01+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Css
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002728s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003339s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Img
+
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:07+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Img
+
+
+
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Css
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Img
+
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002199s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028620s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:15:31+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:21+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:17:21+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001574s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Img
+
+
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001735s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Img
+
+
+[ 2017-06-18T21:17:22+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:24+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Img
+
+mg
+
+[ 2017-06-18T21:17:25+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003121s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Img
+
+g
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001240s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:18:26+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001958s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:21:23+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:Img
+
+mg
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018266s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Img
+
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:45+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005010s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:23:46+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Img
+
+:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Img
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:33+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:34+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:34+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:34+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:34+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:34+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001698s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Img
+
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Img
+
+
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:37+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001975s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:25:38+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003631s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Img
+
+
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004410s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Img
+
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/condownlt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ct10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:47+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Img
+
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/ct3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/hot4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/ct2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001469s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/ct6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/ct8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/conrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/header_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/ct1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/ad.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/ct7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/other1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/other2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/ct9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/other3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/other6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/other5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Img
+
+
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001576s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:50+08:00 ] ::1 /5.26/movie/TPHP/img/hotrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002255s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/condownrt.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/footer_logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/other4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/phoneIcon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003373s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/condhtd.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/f_wx.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/f_wpr.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/f_app_ecode.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/user.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/phone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/returntop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Img
+
+[ 2017-06-18T21:26:51+08:00 ] ::1 /5.26/movie/TPHP/img/bannerbg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Img
+
